@@ -4,5 +4,6 @@ namespace EasyDB
 {
     public class Class1
     {
+
     }
 }
